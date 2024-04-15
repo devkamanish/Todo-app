@@ -1,3 +1,3 @@
 # Todo-app
 
-Create a basic todo-app using vanilla javascript.
+Created a basic todo-app using vanilla javascript.
